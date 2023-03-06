@@ -1,8 +1,7 @@
 Solução 1 Algoritmo de conversão de temperatura: um algoritmo que converte uma temperatura em Celsius para Fahrenheit ou vice-versa.
-1. Fahrenheit = * 1.8 + 32
-2. Celcius = − 32 × 5/9
-3. Pedir valor
-4. Pedir Unidade de Temperatura
-5. SE Unidade de Temperatura = Fahrenheit
-6. ENTÃO resultado = valor + celcius
-7. SE NÃO resultado = valor + Fahrenheit
+1. Pedir valor
+2. Pedir Unidade de Temperatura
+3. SE Unidade de Temperatura = Fahrenheit
+4. ENTÃO resultado = valor * 1,8 + 32
+5. SE NÃO resultado = valor − 32 × 5/9
+6. escreva resultado
