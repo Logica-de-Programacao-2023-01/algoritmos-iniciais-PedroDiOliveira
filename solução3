@@ -4,4 +4,4 @@ Algoritmo de cálculo de média: um algoritmo que calcula a média de uma lista 
 3.SEMPRE que computar novo valor, total = total + 1
 4.soma = soma + valor adicionado }
 5.media = soma / total
-6.escreva media
+6.escreva média
