@@ -1,4 +1,7 @@
 5- Algoritmo de busca linear: um algoritmo que procura por um determinado elemento em uma lista, verificando cada elemento da lista até encontrá-lo.
-1.Pedir Nome
-2.leia lista enquanto elemento for diferente de Nome
-3.Se Nome = elemento [escreva elemento]
+1. leia x
+2. leia lista
+3. para cada valor na lista, faça:
+4. se elemento atual for igual a x:
+5. escreva x
+6. escreva "não encontrei"
